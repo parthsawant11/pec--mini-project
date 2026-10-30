@@ -1,0 +1,6 @@
+{
+  "name": "CareerForge AI - Career Guidance System",
+  "description": "Comprehensive AI Career Guidance System featuring O*NET RAG knowledge base, skill gap analysis, personalized roadmaps, ATS resume scanner, and AI career mentoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
